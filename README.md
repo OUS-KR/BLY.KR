@@ -47,11 +47,11 @@
 ### 유튜브 단축주소
 
 - 유튜브 영상: `BLY.KR/yt/{유튜브 영상 아이디}`
-  - 예제: [BLY.KR/yt/1ZX1vEDTfY4](https://bly.kr/yt/1ZX1vEDTfY4)
+  - 예제: [BLY.KR/yt/1ZX1vEDTfY4](https://bly.kr/yt/1ZX1vEDTfY4), [BLY.KR/yt/yebNIHKAC4A](https://bly.kr/yt/yebNIHKAC4A)
 - 유튜브 영상 + 시작 시간 옵션: `BLY.KR/{유튜브 영상 아이디}/{시작 시간}`
-  - 예제: [BLY.KR/yt/1ZX1vEDTfY4/1m6s](https://bly.kr/yt/1ZX1vEDTfY4/1m6s)
+  - 예제: [BLY.KR/yt/1ZX1vEDTfY4/1m6s](https://bly.kr/yt/1ZX1vEDTfY4/1m6s), [BLY.KR/yt/yebNIHKAC4A/56](https://bly.kr/yt/yebNIHKAC4A/56)
 - 유튜브 영상 썸네일: `BLY.KR/yt/img/{유튜브 영상 아이디}`
-  - 예제: [BLY.KR/yt/img/1ZX1vEDTfY4](https://bly.kr/yt/img/1ZX1vEDTfY4)
+  - 예제: [BLY.KR/yt/img/1ZX1vEDTfY4](https://bly.kr/yt/img/1ZX1vEDTfY4), [BLY.KR/yt/img/yebNIHKAC4A](https://bly.kr/yt/img/yebNIHKAC4A)
 
 ## 주의사항
 
