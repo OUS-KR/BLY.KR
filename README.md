@@ -52,6 +52,8 @@
   - 예제: [BLY.KR/yt/1ZX1vEDTfY4/1m6s](https://bly.kr/yt/1ZX1vEDTfY4/1m6s), [BLY.KR/yt/yebNIHKAC4A/56](https://bly.kr/yt/yebNIHKAC4A/56)
 - 유튜브 영상 썸네일: `BLY.KR/yt/img/{유튜브 영상 아이디}`
   - 예제: [BLY.KR/yt/img/1ZX1vEDTfY4](https://bly.kr/yt/img/1ZX1vEDTfY4), [BLY.KR/yt/img/yebNIHKAC4A](https://bly.kr/yt/img/yebNIHKAC4A)
+- 유튜브 채널 RSS: `BLY.KR/yt/rss/{유튜브 채널 아이디}`
+  - 예제: [BLY.KR/yt/rss/UC-Fnix71vRP64WXeo0ikd0Q](https://bly.kr/yt/rss/UC-Fnix71vRP64WXeo0ikd0Q)
 
 #### 마크다운 작성 시 사용 방법
 
